@@ -1,3 +1,5 @@
+# Rock Paper Scissors 
+---
 > Description : Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This C++ Program [Mini Project] is aimed at automating one of the player called as Computerized Player and the taking rock, paper or scissor as an input from the used.
 ---
 
@@ -20,6 +22,9 @@ but will lose to one who has played paper ("paper covers rock");
 a play of paper will lose to a play of scissors ("scissors cuts paper").
 If both players choose the same shape, the game is tied and
 is usually immediately replayed to break the tie.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png" width = "600" height = "600"/>
+
 
 **Possible cases** -  
 
@@ -65,3 +70,7 @@ is usually immediately replayed to break the tie.
 
 
 ## Output
+
+<img src="https://github.com/shreyaschavhan/Rock-Paper-Scissors-Game/blob/main/Images/rock-paper-scissor.gif" width="1080" height="600" />
+
+> A Project by [Shreyas Chavhan](https://github.com/shreyaschavhan)
