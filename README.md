@@ -25,6 +25,8 @@ is usually immediately replayed to break the tie.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png" width = "600" height = "600"/>
 
+Image Credits : Wiki Pedia
+
 
 **Possible cases** -  
 
